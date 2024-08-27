@@ -42,7 +42,6 @@
     *   在`server`块中添加或修改SSL配置，示例如下：
 
 <!---->
-
        server {
            listen 443 ssl;
            server_name yourdomain.com;
